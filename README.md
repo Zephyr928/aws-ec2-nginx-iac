@@ -1,4 +1,4 @@
-# aws-ec2-nginx-iac
+# aws-ec2-ansible
 
 **Getting started**
 
